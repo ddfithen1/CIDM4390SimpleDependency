@@ -1,0 +1,14 @@
+C:\CIDM4390\Chapter03\SimpleDependency\SimpleDependency\bin\Debug\netcoreapp2.2\SimpleDependency.deps.json
+C:\CIDM4390\Chapter03\SimpleDependency\SimpleDependency\bin\Debug\netcoreapp2.2\SimpleDependency.runtimeconfig.json
+C:\CIDM4390\Chapter03\SimpleDependency\SimpleDependency\bin\Debug\netcoreapp2.2\SimpleDependency.runtimeconfig.dev.json
+C:\CIDM4390\Chapter03\SimpleDependency\SimpleDependency\bin\Debug\netcoreapp2.2\SimpleDependency.dll
+C:\CIDM4390\Chapter03\SimpleDependency\SimpleDependency\bin\Debug\netcoreapp2.2\SimpleDependency.pdb
+C:\CIDM4390\Chapter03\SimpleDependency\SimpleDependency\bin\Debug\netcoreapp2.2\MessagePrinter.dll
+C:\CIDM4390\Chapter03\SimpleDependency\SimpleDependency\bin\Debug\netcoreapp2.2\MessagePrinter.pdb
+C:\CIDM4390\Chapter03\SimpleDependency\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.csprojAssemblyReference.cache
+C:\CIDM4390\Chapter03\SimpleDependency\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.csproj.CoreCompileInputs.cache
+C:\CIDM4390\Chapter03\SimpleDependency\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.AssemblyInfoInputs.cache
+C:\CIDM4390\Chapter03\SimpleDependency\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.AssemblyInfo.cs
+C:\CIDM4390\Chapter03\SimpleDependency\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.csproj.CopyComplete
+C:\CIDM4390\Chapter03\SimpleDependency\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.dll
+C:\CIDM4390\Chapter03\SimpleDependency\SimpleDependency\obj\Debug\netcoreapp2.2\SimpleDependency.pdb
